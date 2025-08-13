@@ -1,4 +1,4 @@
-module github.com/malyshevio/hw01_hello_otus
+module github.com/malyshevio/otus-go-pro/hw01_hello_otus
 
 go 1.23
 
